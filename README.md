@@ -1,2 +1,2 @@
-# basic-binary-search
-A C++ program to guess a number via binary search
+# Binary search
+Simple C++ programm to guess a number using binary search algorithm.
